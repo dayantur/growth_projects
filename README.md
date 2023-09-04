@@ -2,9 +2,9 @@
 Projects on growth models.
 
 -- EGM
-- jupyther notebook for Basic EGM Generator.
-- jupyther notebook for Advanced EGM Generator.
+- notebook for Basic EGM Generator.
+- notebook for Advanced EGM Generator.
 
 -- RGM
-- jupyther notebook for Basic RGM Generator.
+- notebook for Basic RGM Generator.
 
